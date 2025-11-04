@@ -24,14 +24,14 @@ Sou estudante de graduação de Ciência da Computação pela Universidade de Br
     <img
       align="center"
       height="200"
-      
+      src="https://github-readme-stats.vercel.app/api?username=KallebeLisboa&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img
       align="center"
       height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KallebeLisboa&layout=donut&theme=dark&langs_count=6&hide=jupyter%20notebook"
+      
     />
   </a>
 </p>
