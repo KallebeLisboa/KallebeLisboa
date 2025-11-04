@@ -31,7 +31,7 @@ Sou estudante de graduação de Ciência da Computação pela Universidade de Br
     <img
       align="center"
       height="200"
-      
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KallebeLisboa&layout=donut&theme=dark&langs_count=6&hide=jupyter%20notebook"
     />
   </a>
 </p>
